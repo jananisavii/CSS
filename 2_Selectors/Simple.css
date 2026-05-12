@@ -1,0 +1,44 @@
+
+
+/* ctrl-forward lash for commands in html */
+
+/* 1.Simple Selector types for five */
+/*  1. Tagname Selector */
+/* 2. ID */
+/* 3.class name */
+/* 4. universal  */
+/* 5. Group */
+
+
+nav{ 
+    background-color: pink;
+}
+
+#MY{
+    color: lightseagreen;
+
+} 
+
+main{
+    height: 100px;
+    background-color: lightcoral;
+    color: white;
+
+}
+
+/* class name selector */
+.para{
+    background-color:lightsalmon;
+}
+
+/* universal selector */
+
+*{
+    font-style: italic;
+}
+
+/* group selector */
+
+h3 , h4 , .para ,#logo {
+    text-decoration: underline;
+}

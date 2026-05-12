@@ -1,0 +1,22 @@
+*{
+FRONT PROPERTIES
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam perspiciatis culpa quod illo omnis, error vitae maiores aut. Iste modi nobis quia voluptates quam nisi ipsam vitae. Tenetur, consectetur delectus?
+}*
+
+
+
+
+header{
+    background-color: aqua;
+    height: 200px;
+
+}
+
+header > p{
+    color: blue;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+
+}
